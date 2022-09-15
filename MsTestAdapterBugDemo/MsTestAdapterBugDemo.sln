@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestWorking", "UnitTestWorking\UnitTestWorking.csproj", "{AEB834F9-4A35-4D9A-A59C-70A40028FC7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestCannotFindTest", "UnitTestCannotFindTest\UnitTestCannotFindTest.csproj", "{370F0F4F-54E5-4317-A1D8-F556056AEEDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB834F9-4A35-4D9A-A59C-70A40028FC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB834F9-4A35-4D9A-A59C-70A40028FC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB834F9-4A35-4D9A-A59C-70A40028FC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB834F9-4A35-4D9A-A59C-70A40028FC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{370F0F4F-54E5-4317-A1D8-F556056AEEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370F0F4F-54E5-4317-A1D8-F556056AEEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370F0F4F-54E5-4317-A1D8-F556056AEEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370F0F4F-54E5-4317-A1D8-F556056AEEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11351B8D-8127-483B-921F-5AF7CE174CF6}
+	EndGlobalSection
+EndGlobal
